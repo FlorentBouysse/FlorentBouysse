@@ -10,7 +10,7 @@ Actuellement en reconversion pro dans le développement web avec l'école O'oclo
 
 La formation le confirmant de jour en jour, j'apprends 🤓 , je code 💻 , je me plante 😩 , j'apprends encore 🤓 et j'évolu => 🤖 Non non pas comme ça je vous rassure, juste en compétences !
 
-## J'utilise des technologie ! Sérieux ?
+## J'utilise des technologies ! Sérieux ?
 
 ```php
 <?php
