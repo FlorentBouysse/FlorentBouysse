@@ -28,7 +28,7 @@ La formation le confirmant de jour en jour, j'apprends 🤓 , je code 💻 , je 
 ```
 ## Faut qu'on discute du coup !
 
-Pas de soucie j'aime rencontrer de nouvelle personne, on est tous aussi complexe que le code finalement et tout aussi intéressant 😄
+Pas de soucie j'aime rencontrer de nouvelles personnes, on est tous aussi complexe que le code finalement et c'est tout aussi intéressant 😄
 
 Et peut-être qu'on peut faire un bout de chemin ensemble 🤜🤛
 
